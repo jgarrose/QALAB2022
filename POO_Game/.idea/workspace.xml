@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="da617a3f-090e-471e-a6af-2f69381fb9a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../AppArrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AppArrays/src/Main.java" afterDir="false" />
+=======
+    <list default="true" id="0da1d375-5b04-4381-97af-ef71aef3e2b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+>>>>>>> release
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -16,13 +22,19 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> release
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2EM9yv8gN1PPvP1fOhyVwzPjeO6" />
+=======
+  <component name="ProjectId" id="2K58zj9mxbr8WUU0ZGjL2HzAAdq" />
+>>>>>>> release
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +46,7 @@
     "last_opened_file_path": "C:/Users/jgarrose/Documents/GIT QA/QALAB2022/POO_Game"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -51,6 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662394848125</updated>
+=======
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da1d375-5b04-4381-97af-ef71aef3e2b5" name="Changes" comment="" />
+      <created>1673253357300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673253357300</updated>
+>>>>>>> release
     </task>
     <servers />
   </component>
